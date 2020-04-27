@@ -3,3 +3,5 @@
 Hello all
 
 Staging:  "What is going on"
+Change b/w local and git at diff. place does not matter
+.
