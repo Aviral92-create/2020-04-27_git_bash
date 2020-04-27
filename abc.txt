@@ -3,3 +3,6 @@
 Hello all
 
 Staging:  "What is going on"
+
+Git error if same line commit difference in local and rep.
+Fine
