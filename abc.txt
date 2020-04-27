@@ -3,7 +3,7 @@
 Hello all
 
 Staging:  "What is going on"
-
+First attempt below:
 Change b/w local and git at diff. place does not matter
 
 
