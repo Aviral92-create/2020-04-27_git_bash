@@ -14,3 +14,5 @@ Fine
 ##Branches
 git checkout branchname
 git switch -new way
+
+Talkimng about stashing
