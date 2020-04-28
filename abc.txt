@@ -10,3 +10,7 @@ Change b/w local and git at diff. place does not matter
 Git error if same line commit difference in local and rep.
 Fine
 5) Change making in remote rep.
+
+##Branches
+git checkout branchname
+git switch -new way
