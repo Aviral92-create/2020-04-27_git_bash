@@ -16,3 +16,7 @@ git checkout branchname
 git switch -new way
 
 Talkimng about stashing
+
+##Branch assignment
+git stash: temp saves current state
+git stash apply to apply the last stash
