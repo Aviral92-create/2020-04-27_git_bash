@@ -15,7 +15,7 @@ Fine
 git checkout branchname
 git switch -new way
 
-Talkimng about stashing
+Talkimng about stashing with arguments
 
 ##Branch assignment
 git stash: temp saves current state as a commit so you can checkout or switch
@@ -28,5 +28,8 @@ git push origin<Branch name>: pushes branch to the remote
 			      You merge the PR and also the branch by accepting and merging the PR
 
 Don't forget to clean up yr branches
+
+#REbase
+Add change at new position
 
 
