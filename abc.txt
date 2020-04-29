@@ -15,7 +15,7 @@ Fine
 git checkout branchname
 git switch -new way
 
-Talkimng about stashing with arguments
+Talking about stashing with arguments
 
 ##Branch assignment
 git stash: temp saves current state as a commit so you can checkout or switch
@@ -31,5 +31,7 @@ Don't forget to clean up yr branches
 
 #REbase
 Add change at new position
+
+REbase branch1
 
 
